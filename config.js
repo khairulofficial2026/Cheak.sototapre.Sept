@@ -87,7 +87,7 @@ const SUBJECT_LABELS = {
   "word book": "ওয়ার্ড বুক (Word Book)",
   "gk": "সাধারণ জ্ঞান (GK)",
   "science": "বিজ্ঞান (Science)",
-  "বা.বি.প(bgs)": "বাংলাদেশ বিষয়াবলী ও বিশ্ব পরিচয় (BGS)",
+  "বা.বি.প(bgs)": "বা.বি.প(BGS)",
   "quran": "কুরআন (Quran)",
   "islamiat": "ইসলাম শিক্ষা / ধর্ম (Islamiat)",
   "hindu dharma 1": "হিন্দুধর্ম-১",
