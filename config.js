@@ -6,7 +6,7 @@
 // ================================
 const SHEET_CSV_URLS = ["https://docs.google.com/spreadsheets/d/e/2PACX-1vTm2uenDiLu93wXEBWrAB1stf1ltmKcLQWpGMRfs1uNCgeUWeYLLmAfi0p2I1D6Lxmp8Xw-sR8bxVCn/pub?gid=30031640&single=true&output=csv",
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmA_P_ghMLKrBr48GYtRJWAx4iLu83Af9CHmGeKDpr6ZmdpRWF78QNUoSMIFeayRCk8m7AK8A5YpbE/pub?gid=838426032&single=true&output=csv",
-  "PASTE_CLASS_5_SHEET_CSV_LINK_HERE",
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQe3YYwCOzhgitW2vpZMz5ulFcUWz3N6g_Y_8ee8ep8DfvXlc7fN1wXyTTPFzSh920eohFkQ8-t90Zf/pub?gid=2146845667&single=true&output=csv",
   "PASTE_CLASS_6_SHEET_CSV_LINK_HERE",
   "PASTE_CLASS_7_SHEET_CSV_LINK_HERE"
 ];
@@ -68,7 +68,7 @@ const DEFAULT_MAX_MARKS = 100;
 // ================================
 const ATTENDANCE_ADD_TO_TOTAL = true;
 const ATTENDANCE_LABEL = "উপস্থিতি (Attendance)";
-const ATTENDANCE_MAX_MARKS = 150;
+const ATTENDANCE_MAX_MARKS = 10;
 
 // ================================
 // Google Sheet এর কলাম হেডার -> রিপোর্টে যেভাবে দেখাবে
